@@ -69,6 +69,7 @@ Updated every 5 seconds.
 <img width="2482" height="1225" alt="1" src="https://github.com/user-attachments/assets/bc8a8cae-835f-4850-9c2c-4a082dcc4abd" />
 TRS4R3N SOC Monitor v3.0 Running on Linux Operating System
 
+
 TRS4R3N SOC Monitor v3.0 Running on Windows Operating System
 <img width="2559" height="1263" alt="2" src="https://github.com/user-attachments/assets/a5d2b47d-0e2c-4bd9-9b63-b2be60174d69" />
 
